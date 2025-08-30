@@ -6,7 +6,7 @@ The repository is made available to encourage transparency, reproducibility, and
 
 ---
 
-## Ethics, Limitations and Responsible Disclosure
+## Ethical Considerations and Notes on Responsible Use
 
 In conducting this research, all prompt injection experiments were carried out solely for academic purposes, with the explicit aim of evaluating model robustness and raising awareness of potential security gaps. Although some tests were performed through public inference APIs (e.g., Hugging Face), no attempts were made to cause harm, disrupt services, or exfiltrate sensitive data beyond controlled canary tokens. 
 
